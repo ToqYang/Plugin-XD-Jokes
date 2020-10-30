@@ -1,0 +1,28 @@
+{
+    "name": "jokes",
+    "host": {
+        "app": "XD",
+        "minVersion": "21.0"
+    },
+    "id": "e8c3b79b",
+    "icons": [
+        {
+            "path": "images/icon@1x.png",
+            "width": 24,
+            "height": 24
+        },
+        {
+            "path": "images/icon@2x.png",
+            "width": 48,
+            "height": 48
+        }
+    ],
+    "uiEntryPoints": [
+        {
+            "type": "panel",
+            "label": "Enlarge a Rectangle",
+            "panelId": "enlargeRectangle"
+        }
+    ],
+    "version": "0.0.1"
+}
